@@ -45,10 +45,7 @@ portfolio/
 
 ## 👨‍💻 Author
 
-Your Name
-
-## 📄 License
 Author: Suriya K
-GitHub: 
+GitHub: https://github.com/ajithsuriya9543-creator/My-Portfolio-Website.git
 
 This project is open source and free to use.
